@@ -1,7 +1,7 @@
 # html-Framework
-write up
 
-###Framework.
+## write up
+
 
 A framework is a standardized set of concepts, practices and criteria for dealing with a common type of problem, which can be used as a reference to help us approach and resolve new problems of a similar nature.
 In the world of web design, to give a more straightforward definition, a framework is defined as a package made up of a structure of files and folders of standardized code (HTML, CSS, JS documents etc.) 
@@ -11,26 +11,22 @@ The aim of frameworks is to provide a common structure so that developers don’
 In this way, frameworks allow us to cut out much of the work and save a lot of time. 
 Tosummarize: there’s no need to reinvent the wheel. Example of this frame works.
 
-*A CSS FRAMEWORK – GET BOOTSTRAP
+1.HTML CSS FRAMEWORK – GET BOOTSTRAP
  
+2.HTML FRAMEWORK – HTML KICK START
+  Ultra–Lean HTML5, CSS, & JS Building Blocks for Rapid Website Production.
 
+3.A HTML FRAMEWORK –  HTML5 BOILERPLATE
+  HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
+
+4.HTML FRAMEWORK – GET SKELETON
  
-
-*A HTML FRAMEWORK – HTML KICK START
-Ultra–Lean HTML5, CSS, & JS Building Blocks for Rapid Website Production.
-
-
-*A HTML FRAMEWORK –  HTML5 BOILERPLATE
-HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
-
-
-
-*A HTML FRAMEWORK – GET SKELETON
- 
-
-
-*A HTML FRAMEWORK – MONTAGEJS
-MontageJS is a modern, full stack HTML5 framework designed to create single-page applications—fast! MontageJS uses time-tested design patterns and software principles, allowing you to easily create a modular architecture for your projects and help deliver a high-quality user experience. This allows designers and developers to work collaboratively and quickly.
+5.HTML FRAMEWORK – MONTAGEJS
+  MontageJS is a modern, full stack HTML5 framework designed to create single-page 
+  applications—fast! MontageJS uses time-tested design patterns and software principles,
+  allowing you to easily create a modular architecture for your projects
+  and help deliver a high-quality user experience. 
+  This allows designers and developers to work collaboratively and quickly.
 
 
 
